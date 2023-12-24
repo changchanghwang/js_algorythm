@@ -33,3 +33,8 @@ nums2.length == n
 -109 <= nums1[i], nums2[j] <= 109
 
 Follow up: Can you come up with an algorithm that runs in O(m + n) time?
+
+### 설명
+
+- nums1 의 원본을 변경시켜야 한다.
+- 그래서 원본을 변경시키는 push, splice, sort 를 사용하였다.
