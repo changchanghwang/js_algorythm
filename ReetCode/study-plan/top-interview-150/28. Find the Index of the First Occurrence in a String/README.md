@@ -16,3 +16,7 @@ Constraints:
 
 1 <= haystack.length, needle.length <= 104
 haystack and needle consist of only lowercase English characters.
+
+### 해결방법
+
+indexOf를 쓰면 쉬움
